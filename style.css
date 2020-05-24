@@ -3,9 +3,13 @@ body {
 }
 
 h1 {
-    color: #9c0087;
+    color: #888888;
 }
 
 p {
     color: brown;
+}
+
+h2 {
+    color: #347c0b;
 }
